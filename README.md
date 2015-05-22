@@ -1,3 +1,5 @@
+# Serenity [![Build Status](https://teamcity.mesosphere.io/guestAuth/app/rest/builds/buildType:(id:SerenityModules_CI)/statusIcon)](https://teamcity.mesosphere.io/viewType.html?buildTypeId=SerenityModules_CI&guest=1)
+
 # Building the Modules
 
 Mesos modules provide a way to easily extend inner workings of Mesos by creating
